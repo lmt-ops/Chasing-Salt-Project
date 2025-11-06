@@ -1,1 +1,1 @@
-Download Methods to access resource hyper-links
+To access Resource hyper-links, download methods to your computer
